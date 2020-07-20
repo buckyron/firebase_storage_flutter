@@ -58,6 +58,7 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 
+  // Upload the image to the firebase storage
   Widget enableUpload(){
     return Container(
       child: Column(
